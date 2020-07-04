@@ -1,0 +1,19 @@
+{
+  "name": "supervillain",
+  "version": "1.0.0",
+  "description": "Generate a random supervillain name",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jljakin2/supervillain.git"
+  },
+  "author": "Jeff Jakinovich",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jljakin2/supervillain/issues"
+  },
+  "homepage": "https://github.com/jljakin2/supervillain#readme"
+}
